@@ -21,6 +21,9 @@
   },
   "homepage": "https://github.com/samuelkutz/rinha-de-backend#readme",
   "dependencies": {
-    "express": "^4.18.2"
-  }
+    "express": "4.18.2",
+    "sqlite3": "5.1.6"
+  },
+
+  "type": "module"
 }
